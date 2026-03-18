@@ -149,7 +149,7 @@ If you use these proofs in your work, please cite the papers and this repository
   title = {Formally Verified Proofs for Cyclic Continual Learning},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/OWNER/continual-learning-proofs}
+  url = {https://github.com/WellWizard/continual-learning-proofs}
 }
 ```
 
